@@ -31,5 +31,5 @@ The code supplied here is covered under the MIT Open Source License..
 [2]: http://standards.ieee.org/develop/wg/POSIX.html
 [3]: https://github.com/teocci/RegexCheatsheet/issues/new
 [4]: https://github.com/teocci/RegexCheatsheet/compare
-[5]: https://github.com/teocci/RegexCheatsheet/index.html
+[5]: https://teocci.github.io/RegexCheatsheet/
 [6]: http://www.petefreitag.com/cheatsheets/regex
